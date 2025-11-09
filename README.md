@@ -45,18 +45,18 @@ Hệ thống hỗ trợ phân tích đặc trưng tĩnh của tệp PE (Windows)
 ## 2. CẤU TRÚC DỰ ÁN
 
 ├── app.py # Ứng dụng web Streamlit (Giao diện mới)
-├── train_all_models.py                            # Script huấn luyện (in báo cáo, lưu .joblib)
-├── feature_extractor.py                           # Trích xuất đặc trưng từ .exe (sử dụng pefile)
-├── requirements.txt                               # Thư viện Python (bao gồm matplotlib)
-├── MalwareData.csv                                # Dữ liệu PE Header
-├── top_1000_pe_imports.csv                        # Dữ liệu API Imports
-├── drebin-215-dataset-...csv                      # Dữ liệu Drebin cho APK
-├── app_config.json                                # Tệp cấu hình (tạo tự động sau lần chạy đầu)
-├── models/                                        # Thư mục lưu model (.joblib)
+├── train_all_models.py                            
+├── feature_extractor.py                          
+├── requirements.txt                           
+├── MalwareData.csv                             
+├── top_1000_pe_imports.csv             
+├── drebin-215-dataset-...csv                    
+├── app_config.json                              
+├── models/                                       
 │ ├── pe_header_model_df.joblib
 │ ├── pe_header_model_svm.joblib
 │ └── ... (~19 tệp)
-└── README.md                                      # Tệp hướng dẫn (này)
+└── README.md                                     
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------

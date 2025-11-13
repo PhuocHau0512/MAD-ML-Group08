@@ -38,23 +38,7 @@ Hệ thống hỗ trợ phân tích đặc trưng tĩnh của tệp PE (Windows)
     1. Biểu đồ tròn tóm tắt tỉ lệ Malware/Lành tính.
     2. Biểu đồ 20 đặc trưng quan trọng nhất cho từng mô hình
 
--   **Quản lý mô hình:** cho phép chỉ định `--output-dir` để lưu các tệp mô hình `.joblib` khi huấn luyện
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-## 2. CẤU TRÚC DỰ ÁN
-
-├── app.py
-├── train_all_models.py 
-├── feature_extractor.py
-├── requirements.txt
-├── MalwareData.csv
-├── top_1000_pe_imports.csv
-├── drebin-215-dataset-...csv
-├── app_config.json
-├── models/
-└── README.md                                     
-
+-   **Quản lý mô hình:** cho phép chỉ định `--output-dir` để lưu các tệp mô hình `.joblib` khi huấn luyện                                   
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 

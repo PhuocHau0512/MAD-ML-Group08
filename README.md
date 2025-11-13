@@ -53,9 +53,6 @@ Hệ thống hỗ trợ phân tích đặc trưng tĩnh của tệp PE (Windows)
 ├── drebin-215-dataset-...csv                    
 ├── app_config.json                              
 ├── models/                                       
-│ ├── pe_header_model_df.joblib
-│ ├── pe_header_model_svm.joblib
-│ └── ... (~19 tệp)
 └── README.md                                     
 
 

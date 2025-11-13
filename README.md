@@ -45,23 +45,14 @@ Hệ thống hỗ trợ phân tích đặc trưng tĩnh của tệp PE (Windows)
 ## 2. CẤU TRÚC DỰ ÁN
 
 ├── app.py
-|
 ├── train_all_models.py 
-|
 ├── feature_extractor.py
-|
 ├── requirements.txt
-|
 ├── MalwareData.csv
-|
 ├── top_1000_pe_imports.csv
-|
 ├── drebin-215-dataset-...csv
-|
 ├── app_config.json
-|
 ├── models/
-|
 └── README.md                                     
 
 

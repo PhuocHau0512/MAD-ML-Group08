@@ -44,7 +44,7 @@ Hệ thống hỗ trợ phân tích đặc trưng tĩnh của tệp PE (Windows)
 
 ## 2. CẤU TRÚC DỰ ÁN
 
-├── app.py # Ứng dụng web Streamlit (Giao diện mới)
+├── app.py 
 ├── train_all_models.py                            
 ├── feature_extractor.py                          
 ├── requirements.txt                           
